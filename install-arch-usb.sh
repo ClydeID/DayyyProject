@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # === CONFIGURABLE VARIABLES ===
-DISK="/dev/sda"         # Ganti sesuai device USB kamu
+DISK="/dev/sda1"         # Ganti sesuai device USB kamu
 HOSTNAME="DayyyProject"
 USERNAME="Dayyy"
 PASSWORD="KalemKalem"
